@@ -1,7 +1,7 @@
 const logotext = "Wassgoodiiee";
 const meta = {
     title: "Kevvan D. Young",
-    description: "I’m Kevvan D. Young data scientist _ Full stack devloper,currently working in Berlin",
+    description: "I’m Kevvan D. Young, Holy Faith Developer,currently working in Virginia",
 };
 
 const introdata = {
@@ -12,7 +12,7 @@ const introdata = {
         third: "I code cool websites",
     },
     description: "Holy Faith Developer",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/375767800_6790505337662058_7538141220056060371_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=XxIrCZa2mj4AX9hOi6R&_nc_ht=scontent-dfw5-2.xx&oh=00_AfDmGiw82pgtuFrcg1lt_7RRtRPTf5hfiGuyJTGoSk1t7Q&oe=651DD627",
 };
 
 const dataabout = {
@@ -150,7 +150,7 @@ const socialprofils = {
     github: "https://github.com/kdy1994kko",
     facebook: "https://www.facebook.com/kevvankko.young/",
     linkedin: "https://www.linkedin.com/in/kevvan-d-young/",
-    // instagram: "h"
+    instagram: "https://www.instagram.com/blvck.kev44/?igshid=OGQ5ZDc2ODk2ZA=="
 };
 export {
     meta,
