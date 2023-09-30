@@ -7,11 +7,11 @@ const meta = {
 const introdata = {
     title: "I’m Kevvan D. Young",
     animated: {
-        first: "Retired US Airforce Vet",
+        first: "Retired US Airforce Veteran",
         second: "I love coding",
         third: "I code cool websites",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Holy Faith Developer",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -136,9 +136,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "kdy1994kko@gmail.com",
+    YOUR_FONE: "281-896-2303",
+    description: "Loem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +147,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/kdy1994kko",
+    facebook: "https://www.facebook.com/kevvankko.young/",
+    linkedin: "https://www.linkedin.com/in/kevvan-d-young/",
+    // instagram: "h"
 };
 export {
     meta,
