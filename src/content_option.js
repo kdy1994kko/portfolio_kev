@@ -50,16 +50,16 @@ const skills = [{
 ];
  
 const services = [{
-        title: "Game Development",
-        description: "Recently got my student ID to start the process of enrollment at Full Sail University.",
+        title: "Full Sail University",
+        description: "I have recently acquired my student identification (ID) credential, which signifies the initiation of my enrollment process in the field of Game Development.",
     },
     {
-        title: "Harvard Online",
-        description: "Learned most of my programming from Harvard CS50. Have been skyrocketing my growth mindset eversince. ",
+        title: "Harvard University",
+        description: "A substantial portion of my programming knowledge was gained through completion of the prestigious Harvard CS50 Online course. Ever since then, my personal and professional growth has been experiencing an exponential trajectory, driven by an unwavering commitment to cultivating a resilient and adaptive mindset.",
     },
     {
-        title: "CCAF",
-        description: "24 credits away from my associates degree with the Community College of the Airforce",
+        title: "Community College of the Airforce",
+        description: "Currently just 24 credits away from the attainment of my associates degree in affiliation with the esteemed Community College of the Air Force, representing a significant milestone towards my educational journey.",
     },
 ];
 
