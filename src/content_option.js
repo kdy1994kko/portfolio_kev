@@ -16,59 +16,50 @@ const introdata = {
 };
  
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+        title: "Retired 9.5 Year Veteran",
+        aboutme: "I'm Here To Splash You With The Light Of Christ. Not Drown You In Christianity. I Love MMA & Practice Taekwondo, Wrestling, Muay Thai, Kickboxing & My Next Goal Is Becoming A Purple Belt In BJJ.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Services Journeyman",
+        where: "US Airforce",
+        date: "2014-2023",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+    
 ];
 
 const skills = [{
+        name: "React, HTML, CSS, JS, UI/UX", 
+        value: 50,
+    },
+    {
+        name: "Lua",
+        value: 15,
+    },
+    {
         name: "Python",
-        value: 90,
+        value: 15,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "C#",
+        value: 10,
     },
     {
-        name: "Javascript",
-        value: 80,
-    },
-    {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
-        value: 85,
+        name: "Java",
+        value: 10,
     },
 ];
-
+ 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Game Development",
+        description: "Recently got my student ID to start the process of enrollment at Full Sail University.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Harvard Online",
+        description: "Learned most of my programming from Harvard CS50. Have been skyrocketing my growth mindset eversince. ",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "CCAF",
+        description: "24 credits away from my associates degree with the Community College of the Airforce",
     },
 ];
 
