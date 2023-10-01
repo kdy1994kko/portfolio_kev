@@ -71,22 +71,27 @@ const dataportfolio = [{
     {
         img: "https://th.bing.com/th?id=OIP.Br9ShnItBvnWY8UqR7Aw5wHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
         description: "Chat GPT-3",
-        link: "https://wassgoodiieegpt3.com/",
+        link: "https://codepen.io/kdy1994kko/full/QWzBBjQ",
     },
     {
         img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTetMign9D0Cgwz8K6uz0G3BbMCX4TTY01Y0jorxZvh05HGoJDpsxpAwlVTEIbLpt18rWc&usqp=CAU",
         description: "Sea Food Restaurant",
-        link: "https://wassgoodiieergm.com/",
+        link: "https://codepen.io/kdy1994kko/full/qBLyyOW",
     },
     {
         img: "https://nmgprod.s3.amazonaws.com/media/files/4d/88/4d882a31b798fa1199e80f3760ac0415/cover_image_1624920150.jpg.760x400_q85_crop_upscale.jpg",
         description: "Next Generation Bank",
-        link: "http://wassgoodiieebank-com.preview-domain.com/",
+        link: "https://codepen.io/kdy1994kko/full/qBLyyBe",
     },
     {
         img: "https://1.bp.blogspot.com/-aYASivipi0w/WEj0h8GkkWI/AAAAAAAAC0E/xLe7hllrrf0Ud35uBa74yD_N5-b_yhQZQCEw/s1600/shutterstock-242288239_orig.jpg",
         description: "My First Portfolio",
         link: "https://codepen.io/kdy1994kko/full/YzdKXyN",
+    },
+    {
+        img: "https://crystalmaggie.com/cdn/shop/products/MG_9175_cfc6f616-4000-4d94-9102-a32b650ef6ba.jpg?v=1647244573&width=823",
+        description: "DnDC (TBA)",
+        link: "https://codepen.io/kdy1994kko/full/BavmBQb",
     }
 ];
 
