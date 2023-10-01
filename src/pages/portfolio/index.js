@@ -18,7 +18,7 @@ export const Portfolio = () => {
             <h1 className="display-4 mb-4"> Portfolio </h1>{" "}
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
-        </Row>
+        </Row> 
         <div className="mb-5 po_items_ho">
           {dataportfolio.map((data, i) => {
             return (
@@ -26,7 +26,7 @@ export const Portfolio = () => {
                 <img src={data.img} alt="" />
                 <div className="content">
                   <p>{data.description}</p>
-                  <a href={data.link}>view project</a>
+                  <a href={data.link} target="_blank" rel="noreferrer">view project</a>
                 </div>
               </div>
             );

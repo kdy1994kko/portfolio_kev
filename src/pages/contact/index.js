@@ -109,7 +109,10 @@ export const ContactUs = () => {
                 ""
               )}
             </address>
-            <p>{contactConfig.description}</p>
+            <a href={`https://www.biblegateway.com/passage/?search=Revelation+21%3A1-8&version=NIV`} target="_blank" rel="noreferrer">
+              <p>{contactConfig.description}</p>
+            </a>
+
           </Col>
           <Col lg="7" className="d-flex align-items-center">
             <form onSubmit={handleSubmit} className="contact__form w-100">
