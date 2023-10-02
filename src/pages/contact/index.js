@@ -114,6 +114,7 @@ export const ContactUs = () => {
             </a>
 
           </Col>
+          {/*
           <Col lg="7" className="d-flex align-items-center">
             <form onSubmit={handleSubmit} className="contact__form w-100">
               <Row>
@@ -162,9 +163,10 @@ export const ContactUs = () => {
               </Row>
             </form>
           </Col>
+          */}
         </Row>
       </Container>
       <div className={formData.loading ? "loading-bar" : "d-none"}></div>
     </HelmetProvider>
   );
-};
+}; 
