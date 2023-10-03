@@ -81,7 +81,7 @@ const dataportfolio = [{
     { 
         img: "https://1.bp.blogspot.com/-aYASivipi0w/WEj0h8GkkWI/AAAAAAAAC0E/xLe7hllrrf0Ud35uBa74yD_N5-b_yhQZQCEw/s1600/shutterstock-242288239_orig.jpg",
         description: "My First Portfolio",
-        link: "https://codepen.io/kdy1994kko/full/YzdKXyN",
+        link: "https://dainty-cascaron-dcc699.netlify.app/",
     },
     {
         img: "https://crystalmaggie.com/cdn/shop/products/MG_9175_cfc6f616-4000-4d94-9102-a32b650ef6ba.jpg?v=1647244573&width=823",
@@ -89,7 +89,7 @@ const dataportfolio = [{
         link: "https://codepen.io/kdy1994kko/full/BavmBQb",
     }
 ];
-
+ 
 const contactConfig = {
     YOUR_EMAIL: "kdy1994kko@gmail.com",
     YOUR_FONE: "281-896-2303",
