@@ -47,9 +47,14 @@ const skills = [{
         name: "Java",
         value: 10,
     },
-];
+]; 
  
-const services = [{
+const services = [
+    {
+        title: "Grand Canyon University",
+        description: "I have recently submitted an application to initiate the enrollment process in the domain of Software Development.",
+    },
+    {
         title: "Full Sail University",
         description: "I have recently acquired my student identification (ID) credential, which signifies the initiation of my enrollment process in the field of Game Development.",
     },
@@ -57,7 +62,7 @@ const services = [{
         title: "Harvard University",
         description: "A substantial portion of my programming knowledge was gained through completion of the prestigious Harvard CS50 Online course. Ever since then, my personal and professional growth has been experiencing an exponential trajectory, driven by an unwavering commitment to cultivating a resilient and adaptive mindset.",
     },
-    {
+    { 
         title: "Community College of the Airforce",
         description: "Currently just 24 credits away from the attainment of my associates degree in affiliation with the esteemed Community College of the Air Force, representing a significant milestone towards my educational journey.",
     },
