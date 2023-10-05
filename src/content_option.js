@@ -52,9 +52,9 @@ const skills = [{
 const services = [
     {
         title: "Grand Canyon University",
-        description: "I have recently submitted an application to initiate the enrollment process in the domain of Software Development.",
+        description: "I have recently acquired my student identification (ID) credential, which signifies the initiation of my enrollment process in the domain of Software Development.",
     },
-    {
+    { 
         title: "Full Sail University",
         description: "I have recently acquired my student identification (ID) credential, which signifies the initiation of my enrollment process in the field of Game Development.",
     },
@@ -76,17 +76,22 @@ const dataportfolio = [{
     {
         img: "https://th.bing.com/th?id=OIP.Br9ShnItBvnWY8UqR7Aw5wHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
         description: "Chat GPT-3",
-        link: "https://soft-smakager-432deb.netlify.app/",
+        link: "https://chatgpt3-kev.netlify.app/",
     },
     {
         img: "https://nmgprod.s3.amazonaws.com/media/files/4d/88/4d882a31b798fa1199e80f3760ac0415/cover_image_1624920150.jpg.760x400_q85_crop_upscale.jpg",
         description: "Next Generation Bank",
-        link: "https://capable-axolotl-b8e13d.netlify.app/",
+        link: "https://nextgenbank-kev.netlify.app/",
+    },
+    { 
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCZ09LIRfTJh_RbXRRjBxNj0GkZfCk-OO3fQ&usqp=CAU",
+        description: "Harvard Certifications",
+        link: "https://harvard-kev.netlify.app/",
     },
     { 
         img: "https://1.bp.blogspot.com/-aYASivipi0w/WEj0h8GkkWI/AAAAAAAAC0E/xLe7hllrrf0Ud35uBa74yD_N5-b_yhQZQCEw/s1600/shutterstock-242288239_orig.jpg",
         description: "My First Portfolio",
-        link: "https://dainty-cascaron-dcc699.netlify.app/",
+        link: "https://portfolio1-kev.netlify.app/",
     },
     {
         img: "https://crystalmaggie.com/cdn/shop/products/MG_9175_cfc6f616-4000-4d94-9102-a32b650ef6ba.jpg?v=1647244573&width=823",
