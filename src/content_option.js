@@ -12,7 +12,7 @@ const introdata = {
         third: "Accept Him As Your Lord And Savior",
     },
     description: "Holy Faith Developer",
-    your_img_url: "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/375767800_6790505337662058_7538141220056060371_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=XxIrCZa2mj4AX9hOi6R&_nc_ht=scontent-dfw5-2.xx&oh=00_AfDmGiw82pgtuFrcg1lt_7RRtRPTf5hfiGuyJTGoSk1t7Q&oe=651DD627",
+    your_img_url: "https://64.media.tumblr.com/10e93c09763c646a6b41b1ed6fe7b21c/1952fe44f70ab1d3-c7/s1280x1920/caefe7585fe6d7be90c963f74fa9a7ee31520694.jpg",
 };
  
 const dataabout = {
@@ -94,11 +94,18 @@ const dataportfolio = [{
         link: "https://portfolio1-kev.netlify.app/",
     },
     {
-        img: "https://crystalmaggie.com/cdn/shop/products/MG_9175_cfc6f616-4000-4d94-9102-a32b650ef6ba.jpg?v=1647244573&width=823",
-        description: "DnDC (TBA)",
-        link: "https://codepen.io/kdy1994kko/full/BavmBQb",
+        img: "https://cdn.domestika.org/c_fill,dpr_auto,f_auto,h_340,pg_1,t_base_params,w_340/v1621859028/project-covers/001/223/643/1223643-original.?1621859028",
+        description: "All Projects (TBA)",
+        //link: "https://codepen.io/kdy1994kko/full/BavmBQb",
     }
+    //{
+    //    img: "https://crystalmaggie.com/cdn/shop/products/MG_9175_cfc6f616-4000-4d94-9102-a32b650ef6ba.jpg?v=1647244573&width=823",
+    //    description: "DnDC (TBA)",
+    //    link: "https://codepen.io/kdy1994kko/full/BavmBQb",
+    //}
 ];
+
+
  
 const contactConfig = {
     YOUR_EMAIL: "kdy1994kko@gmail.com",
