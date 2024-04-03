@@ -17,7 +17,7 @@ const introdata = {
  
 const dataabout = {
         title: "Retired 9.5 Year Veteran",
-        aboutme: "I'm Here To Splash You With The Light Of Christ. Not Drown You In Christianity. I Love MMA & Practice Taekwondo, Wrestling, Muay Thai, Kickboxing & My Next Goal Is Becoming A Purple Belt In BJJ.",
+        aboutme: "I transitioned into software development in 2021 following the inspiration of a visionary concept conceived by my late cousin. I have since augmented my expertise through online certifications such as Harvard CS50, and am currently pursuing formal education at Grand Canyon University (GCU) to realize my cousin's vision and explore the boundless potential of my skills.",
 };
 const worktimeline = [{
         jobtitle: "Services Journeyman",
@@ -28,23 +28,31 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "React, HTML, CSS, JS, UI/UX", 
-        value: 50,
+        name: "React, HTML, CSS, JS, UI/UX, Python, Lua, Java, C#", 
+        value: 85,
     },
     {
-        name: "Lua",
-        value: 15,
-    },
-    {
-        name: "Python",
-        value: 15,
-    },
-    {
-        name: "C#",
+        name: "Algorithms and Data Structures",
         value: 10,
     },
     {
-        name: "Java",
+        name: "Database Design & Development",
+        value: 10,
+    },
+    {
+        name: "Operating Systems Fundamentals",
+        value: 10,
+    },
+    {
+        name: "JS Web Application Development",
+        value: 10,
+    },
+    {
+        name: "Cloud Computing",
+        value: 10,
+    },
+    {
+        name: "Application Security Foundations",
         value: 10,
     },
 ]; 
@@ -52,19 +60,11 @@ const skills = [{
 const services = [
     {
         title: "Grand Canyon University",
-        description: "I have recently acquired my student identification (ID) credential, which signifies the initiation of my enrollment process in the domain of Software Development.",
-    },
-    { 
-        title: "Full Sail University",
-        description: "I have recently acquired my student identification (ID) credential, which signifies the initiation of my enrollment process in the field of Game Development.",
+        description: "Starting my sophomore year off with a 4.0 GPA in the domain of Software Development.",
     },
     {
         title: "Harvard University",
         description: "A substantial portion of my programming knowledge was gained through completion of the prestigious Harvard CS50 Online course. Ever since then, my personal and professional growth has been experiencing an exponential trajectory, driven by an unwavering commitment to cultivating a resilient and adaptive mindset.",
-    },
-    { 
-        title: "Community College of the Airforce",
-        description: "Currently just 24 credits away from the attainment of my associates degree in affiliation with the esteemed Community College of the Air Force, representing a significant milestone towards my educational journey.",
     },
 ];
  
@@ -108,10 +108,10 @@ const dataportfolio = [{
 
  
 const contactConfig = {
-    YOUR_EMAIL: "kdy1994kko@gmail.com",
+    YOUR_EMAIL: "kdy1994kko@aol.com",
     YOUR_FONE: "281-896-2303",
     description: "'There will be no more death, mourning, crying or pain' ~ Revelation 21:4",
-    // creat an emailjs.com account 
+    // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
@@ -134,5 +134,5 @@ export {
     introdata,
     contactConfig,
     socialprofils,
-    logotext,
+    logotext, 
 };
